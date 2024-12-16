@@ -1,0 +1,656 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.obshiy {
+    height: 2100px;
+    font-family: "Inter", serif;
+    background-color: black;
+}
+
+.navbar {
+    display: flex;
+    background-color: black;
+    padding: 20px 120px;
+}
+
+.search {
+    background-color: black;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF80;
+    outline: none;
+}
+
+.input {
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 6px;
+}
+
+.bobosi {
+    border-radius: 5px;
+    background: linear-gradient(86.86deg, #FF0000 5.88%, #0019FF 76.25%);
+    padding: 1px;
+    height: 39px;
+    margin-left: 470px;
+}
+
+.glass {
+    color: #FFFFFF80;
+}
+
+.signup {
+    background-color: black;
+    border: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 5px;
+    padding: 10px 6px;
+}
+
+.bobosi1 {
+    background: linear-gradient(180deg, #52FF00 0%, #8B44FF 100%);
+    border-radius: 5px;
+    height: 39px;
+    padding: 1px;
+    margin-left: 430px;
+}
+
+.pasi {
+    background-image: url(image\ 7\ \(2\).png);
+    height: 642px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.custom {
+    font-size: 46px;
+    font-weight: 400;
+    background-image: linear-gradient(90deg, #FFC700 0%, #17D5D5 100%);
+    border: none;
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.orqasi {
+    background-color: black;
+    padding: 10px;
+    width: 394px;
+    border-radius: 10px;
+}
+
+.bobosi2 {
+    padding: 2px;
+    background: linear-gradient(90deg, #FFC700 0%, #FF62EF 53.5%, #2200F4 100%);
+    width: 415px;
+    border-radius: 10px;
+}
+
+.uchta {
+    margin-left: 250px;
+    padding-top: 215px;
+}
+
+.uniqe {
+    color: white;
+    font-size: 36px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.products {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.bobosi3 {
+    border-radius: 8px;
+    padding: 2px;
+    background: linear-gradient(180deg, #52FF00 0%, #8B44FF 100%);
+    width: 94px;
+}
+
+.cards1 {
+    gap: 40px;
+    display: flex;
+    margin-left: 250px;
+    margin-top: 126px;
+}
+
+.card1 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi4 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.sozchalar {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.ikkinimadir {
+    display: flex;
+    gap: 3px;
+}
+
+.nom {
+    color: white;
+    padding-right: 184px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.star {
+    color: #FFC700;
+}
+
+.zvezda {
+    color: #8B8E99;
+}
+
+.oyiga {
+    background-color: yellow;
+    font-size: 11px;
+    font-weight: 400;
+    width: 105px;
+    margin-top: 13px;
+    margin-bottom: 7px;
+}
+
+.narx {
+    color: lightblue;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 38px;
+}
+
+.card2 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi5 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.sozchalar1 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.ikkinimadir1 {
+    display: flex;
+    gap: 3px;
+}
+
+.nom1 {
+    color: white;
+    padding-right: 184px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.star1 {
+    color: #FFC700;
+}
+
+.zvezda1 {
+    color: #8B8E99;
+}
+
+.oyiga1 {
+    background-color: yellow;
+    font-size: 11px;
+    font-weight: 400;
+    width: 105px;
+    margin-top: 13px;
+    margin-bottom: 7px;
+}
+
+.narx1 {
+    color: lightblue;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 38px;
+}
+
+.card3 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi6 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.sozchalar2 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.ikkinimadir2 {
+    display: flex;
+    gap: 3px;
+}
+
+.nom2 {
+    color: white;
+    padding-right: 184px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.star2 {
+    color: #FFC700;
+}
+
+.zvezda2 {
+    color: #8B8E99;
+}
+
+.oyiga2 {
+    background-color: yellow;
+    font-size: 11px;
+    font-weight: 400;
+    width: 105px;
+    margin-top: 13px;
+    margin-bottom: 7px;
+}
+
+.narx2 {
+    color: lightblue;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 38px;
+}
+
+.cards2 {
+    gap: 40px;
+    display: flex;
+    margin-left: 250px;
+    margin-top: 43px;
+}
+
+.card4 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi7 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.nom3 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.gruzovik {
+    margin-top: 10px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+}
+
+.truck {
+    color: #17D5D5;
+}
+
+.kun {
+    color: #636363;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.narx3 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.sozchalar3 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.card5 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi8 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.nom4 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.sozchalar4 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.gruzovik1 {
+    margin-top: 10px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+}
+
+.truck1 {
+    color: #17D5D5;
+}
+
+.kun1 {
+    color: #636363;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.narx4 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.card6 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi9 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.temir {
+    background-color: #1E1E1E;
+    border: none;
+    border-radius: 20px;
+}
+
+.nom5 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.sozchalar5 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.gruzovik2 {
+    margin-top: 10px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+}
+
+.truck2 {
+    color: #17D5D5;
+}
+
+.kun2 {
+    color: #636363;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.narx5 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+
+.cards3 {
+    gap: 40px;
+    display: flex;
+    margin-left: 250px;
+    margin-top: 43px;
+}
+
+.card7 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi10 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.nom6 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.gruzovik3 {
+    margin-top: 10px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+}
+
+.truck3 {
+    color: #17D5D5;
+}
+
+.kun3 {
+    color: #636363;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.narx6 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.sozchalar6 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.card8 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi11 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.nom7 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.sozchalar7 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.gruzovik4 {
+    margin-top: 10px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+}
+
+.truck4 {
+    color: #17D5D5;
+}
+
+.kun4 {
+    color: #636363;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.narx7 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.card9 {
+    background-color: #1E1E1E;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.bobosi12 {
+    background: linear-gradient(90deg, #FF0000 0%, #17D5D5 100%);
+    width: 300px;
+    padding: 2px;
+    border-radius: 16px;
+}
+
+.nom8 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.sozchalar8 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16.5px;
+}
+
+.gruzovik5 {
+    margin-top: 10px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+}
+
+.truck5 {
+    color: #17D5D5;
+}
+
+.kun5 {
+    color: #636363;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.narx8 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.footer {
+    margin-top: 130px;
+    height: 197px;
+    background-color: #1E1E1E;
+    display: flex;
+    gap: 700px;
+}
+
+.birnechtasoz {
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-left: 120px;
+}
+
+.controllers {
+    color: white;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.slishkommnogo {
+    color: #FFFFFF80;
+    font-size: 14px;
+    font-weight: 400;
+    width: 224px;
+    padding-top: 10px;
+}
+
+.birnechtasoz1 {
+    padding-top: 40px;
+}
+
+.rasmchalar {
+    display: flex;
+    gap: 15px;
+}
+
+.gmail {
+    padding-left: 110px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
